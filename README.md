@@ -6,4 +6,4 @@ This Project created as a Frontend Test for KeDA Tech
 
 React: according to the test requirements
 
-Tailwind: i choosed to use tailwind because of short timeframe   
+Tailwind: i choosed to use tailwind because of short timeframe, so used it to quicken the styling
